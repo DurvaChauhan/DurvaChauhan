@@ -1,4 +1,4 @@
-# Hi, I'm Ruby 👋
+# Hi, I'm Durva 👋
 
 ### Computer Engineering Student | AI & ML Enthusiast
 
