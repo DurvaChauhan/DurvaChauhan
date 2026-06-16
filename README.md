@@ -1,23 +1,8 @@
-<h1 align="center">Hey, I'm Durva Chauhan 👋</h1>
+<h1 align="center">Hey, I'm Durva Chauhan </h1>
 
 <h3 align="center">
-Machine Learning Enthusiast · Computer Engineering Student · Aspiring Fintech Learner
+Machine Learning Enthusiast · CE Student · Aspiring Fintech Learner
 </h3>
-
-<p align="center">
-  <a href="www.linkedin.com/in/durva-chauhan-60b688381">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto: chauhandurva8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/DurvaChauhan">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 ## 👩‍💻 About Me
@@ -43,13 +28,6 @@ Machine Learning Enthusiast · Computer Engineering Student · Aspiring Fintech 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Data Science & Machine Learning
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
 ### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -59,7 +37,13 @@ Machine Learning Enthusiast · Computer Engineering Student · Aspiring Fintech 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Machine Learning
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ---
 
@@ -81,6 +65,7 @@ Collection of Python programs covering data science fundamentals and core librar
 - 📌 Machine Learning
 - 📌 Artificial Intelligence
 - 📌 Data Science
+- 📌 Fintech
 
 ---
 
@@ -109,3 +94,19 @@ Collection of Python programs covering data science fundamentals and core librar
 ✔ Improve Problem Solving Skills
 
 ✔ Grow as Fintech and ML Engineer
+
+---
+
+<p align="center">
+  <a href="www.linkedin.com/in/durva-chauhan-60b688381">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto: chauhandurva8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/DurvaChauhan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
