@@ -1,12 +1,27 @@
-# Hi, I'm Durva 👋
+```md
+<h1 align="center">Hey, I'm Durva Chauhan 👋</h1>
 
-### Computer Engineering Student | AI & ML Enthusiast
+<h3 align="center">
+Machine Learning Enthusiast · Computer Engineering Student · Aspiring Fintech Learner
+</h3>
 
-I'm a Computer Science Engineering student with a strong interest in Artificial Intelligence, Machine Learning, Large Language Models, and Financial Technology. I enjoy building practical solutions, exploring emerging technologies, and continuously expanding my knowledge through hands-on projects and research.
+<p align="center">
+  <a href="www.linkedin.com/in/durva-chauhan-60b688381">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto: chauhandurva8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/DurvaChauhan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## About Me
+## 👩‍💻 About Me
 
 * 🎓 Pursuing a Diploma in Computer Engineering
 * 🤖 Interested in AI, Machine Learning, and LLMs
@@ -15,76 +30,83 @@ I'm a Computer Science Engineering student with a strong interest in Artificial 
 * 🔭 Building projects that combine software engineering and intelligent systems
 * ⚡ Strong believer in learning by building
 
+- 📫 Reach me at: **chauhandurva8@gmail.com**
+
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
-* Python
-* Java
-* JavaScript
-* C
-* HTML
-* CSS
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Data Science & Machine Learning
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ### Databases
 
-* MySQL
-* NoSQL Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools & Technologies
+### Tools & Platforms
 
-* Git
-* Linux
-* Bootstrap
-
----
-
-## Projects
-
-### Machine Learning Projects
-
-A comprehensive collection of Machine Learning practicals/mini projects and hands-on exercises using Python. This repository covers fundamental and advanced concepts through practical implementations with NumPy, Pandas, Matplotlib, and Scikit-learn. It includes data manipulation, numerical computing, data visualization, machine learning algorithms, and CSV file handling techniques. Designed for students, beginners, and practitioners to learn ML concepts through real-world coding examples and experiments.
-
-> More projects coming soon as I continue exploring AI and Machine Learning.
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-## Certifications
+## 🚀 Projects
 
-* Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
-* Oracle Cloud Infrastructure 2025 Certified Developer Professional
+### 🌳 Machine Learning Projects
+Decision Tree Classification and YouTube Statistics Analysis using Python and Scikit-Learn.
 
----
+### 📊 Machine Learning Practicals
+Hands-on practical exercises involving NumPy, Pandas, and Matplotlib.
 
-## Current Focus
-
-* Machine Learning Engineering
-* Large Language Models (LLMs)
-* AI-powered Applications
-* FinTech Solutions
-* Software Engineering Best Practices
+### 🐍 Python Learning Repository
+Collection of Python programs covering data science fundamentals and core libraries.
 
 ---
 
-## Goals
+## 📚 Currently Learning
 
-* Contribute to impactful AI and FinTech products
-* Build scalable and intelligent software systems
-* Deepen expertise in Machine Learning and LLM development
-* Collaborate on open-source and research-driven projects
-
----
-
-## Connect With Me
-
-* LinkedIn: www.linkedin.com/in/durva-chauhan-60b688381
-
+- 📌 Machine Learning
+- 📌 Artificial Intelligence
+- 📌 Data Science
 
 ---
 
-*"Building technology that solves meaningful problems through intelligent systems and continuous innovation."*
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DurvaChauhan&show_icons=true&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DurvaChauhan&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DurvaChauhan&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+✔ Build more Machine Learning Projects
+
+✔ Explore Fintech
+
+✔ Improve Problem Solving Skills
+
+✔ Grow as Fintech and ML Engineer
