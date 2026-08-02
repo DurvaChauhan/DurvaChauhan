@@ -72,13 +72,16 @@ Collection of Python programs covering data science fundamentals and core librar
 
 ## 📊 GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DurvaChauhan&theme=tokyonight)
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=DurvaChauhan&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DurvaChauhan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DurvaChauhan&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=DurvaChauhan&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DurvaChauhan&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DurvaChauhan&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DurvaChauhan&theme=tokyo-night&hide_border=true"/>
