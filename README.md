@@ -72,7 +72,17 @@ Collection of Python programs covering data science fundamentals and core librar
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DurvaChauhan&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DurvaChauhan&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DurvaChauhan&theme=github_dark&utcOffset=5.5)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DurvaChauhan&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DurvaChauhan&theme=github_dark)
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DurvaChauhan&theme=tokyo-night&hide_border=true"/>
 </p>
