@@ -62,9 +62,9 @@ My 1st webpage.
 
 ## 📚 Currently Learning
 
-- 📌 Machine Learning
-- 📌 Artificial Intelligence
-- 📌 Data Science
+- 📌 Internet of Things
+- 📌 Information Security
+- 📌 ML and Deep Learning
 - 📌 Fintech
 
 ---
