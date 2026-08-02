@@ -73,12 +73,12 @@ Collection of Python programs covering data science fundamentals and core librar
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DurvaChauhan&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=DurvaChauhan&theme=github-dark&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=DurvaChauhan&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DurvaChauhan&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DurvaChauhan&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DurvaChauhan&theme=tokyonight" />
 </p>
 
 <p align="center">
