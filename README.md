@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Durva Chauhan </h1>
 
 <h3 align="center">
-IoT Enthusiast · CE Student · Aspiring Fintech Learner
+IoT Enthusiast · CE Student · Aspiring Fintech Learner<br>
 
   <img src="https://komarev.com/ghpvc/?username=DAKSH-3178&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </h3>
