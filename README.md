@@ -119,3 +119,17 @@ My 1st webpage.
 <p align="center">
   <img src="https://raw.githubusercontent.com/DurvaChauhan/DurvaChauhan/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+
+---
+
+<div align="center">
+
+## 💡 Quote
+
+> *"The best way to predict the future is to build it."*
+
+⭐ **If you like my work, consider following me!**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:0F4C81,100:0EA5E9&height=80&section=footer"/>
+
+</div>
