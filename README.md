@@ -88,7 +88,7 @@ My 1st webpage.
 
 ## 🎯 2026 Goals
 
-✔ Build more Machine Learning Projects
+✔ Build more Projects(big and small)
 
 ✔ Explore Fintech
 
