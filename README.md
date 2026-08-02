@@ -72,16 +72,13 @@ Collection of Python programs covering data science fundamentals and core librar
 
 ## 📊 GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DurvaChauhan&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DurvaChauhan&theme=tokyonight)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DurvaChauhan&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api?username=DurvaChauhan&show_icons=true&theme=tokyonight)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DurvaChauhan&theme=github_dark&utcOffset=5.5)
+![](https://github-readme-streak-stats.herokuapp.com/?user=DurvaChauhan&theme=tokyonight)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DurvaChauhan&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DurvaChauhan&theme=github_dark)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DurvaChauhan&layout=compact&theme=tokyonight)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DurvaChauhan&theme=tokyo-night&hide_border=true"/>
