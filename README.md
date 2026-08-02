@@ -111,9 +111,6 @@ My 1st webpage.
   <a href="https://github.com/DurvaChauhan">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  
-  ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-  
 </p>
 
 
