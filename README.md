@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Durva Chauhan </h1>
 
 <h3 align="center">
-Machine Learning Enthusiast · CE Student · Aspiring Fintech Learner
+IoT Enthusiast · CE Student · Aspiring Fintech Learner
 </h3>
 
 ---
@@ -11,7 +11,7 @@ Machine Learning Enthusiast · CE Student · Aspiring Fintech Learner
 * 🎓 Pursuing a Diploma in Computer Engineering
 * 🤖 Interested in AI, Machine Learning, and LLMs
 * 💡 Exploring applications of AI in FinTech
-* 🌱 Currently learning advanced Machine Learning and modern AI systems
+* 🌱 Currently learning advanced IoT and modern Security systems
 * 🔭 Building projects that combine software engineering and intelligent systems
 * ⚡ Strong believer in learning by building
 
