@@ -50,15 +50,14 @@ IoT Enthusiast · CE Student · Aspiring Fintech Learner
 
 ## 🚀 Projects
 
-### 🌳 Machine Learning Projects
-Decision Tree Classification and YouTube Statistics Analysis using Python and Scikit-Learn.
+### 🧠 [Teen Mental Health Wellness Prediction](https://github.com/DurvaChauhan/Teen-mental-Health-Wellness-Prediction)
+Machine Learning project for predicting teen depression risk using behavioral and lifestyle factors.
 
-### 📊 Machine Learning Practicals
-Hands-on practical exercises involving NumPy, Pandas, and Matplotlib.
+### 🌫️ [AQI Prediction](https://github.com/DurvaChauhan/AQI-Prediction)
+A supervised machine learning project that predicts the Air Quality Index (AQI) using major air pollutants. Covers data preprocessing, exploratory data analysis, model training, and evaluation.
 
-### 🐍 Python Learning Repository
-Collection of Python programs covering data science fundamentals and core libraries.
-
+### 🌐 [Webpage](https://github.com/DurvaChauhan/Webpage)
+My 1st webpage.
 ---
 
 ## 📚 Currently Learning
