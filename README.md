@@ -119,7 +119,7 @@ My 1st webpage.
 
 ## My contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00e5ff&line=58a6ff&point=ff6b6b&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DurvaChauhan&bg_color=0d1117&color=00e5ff&line=58a6ff&point=ff6b6b&area=true&hide_border=true)
 
 ---
 
