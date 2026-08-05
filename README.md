@@ -119,9 +119,7 @@ My 1st webpage.
 
 ## My contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00e5ff&line=58a6ff&point=ff6b6b&area=true&hide_border=true)
 
 ---
 
