@@ -96,7 +96,7 @@ My 1st webpage.
 
 ✔ Improve Problem Solving Skills
 
-✔ Grow as Fintech and ML Engineer
+✔ Grow as Fintech and ML Engineer 
 
 ---
 
